@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Riyang Syahartati**.<br>
+
+Saya seorang **Mahasiswa Manajemen** di [Universitas Diponegoro](https://www.undip.ac.id/).<br>
+
+Saya saat ini mempelajari Cloud Computing melalui studi independen Bangkit [Bangkit](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/8457537).<br>
+
+Saya juga memiliki beberapa sertifikat kelulusan program terkait website pada 2024.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/risyatati2003/)ku ya.
