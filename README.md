@@ -1,5 +1,6 @@
 ### Hi there 👋
 ---
+![logo](https://media.licdn.com/dms/image/D5616AQGNT-C0rn3fMw/profile-displaybackgroundimage-shrink_350_1400/0/1687110462626?e=1721260800&v=beta&t=1KpSV_d9UvLRLCs9hOkCsqwDZUTtOk4CmlXzKNRNjV0)
 
 <!--
 **Riyang7/Riyang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -7,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Riyang</h1>
 <h3 align="center">A passionate Information and Technology Industry from Indonesia</h3>
 
-<img align="left" alt="coding" width=500 src="https://iconscout.com/lottie-animation/female-developer-working-on-code-8679617">
+<img align="right" alt="coding" width=300 src="https://media3.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.gif?cid=6c09b952phy53rtth32saibwhfzrghd8k4obb1m1g3g1eum7&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 📖 I’m Management Student currently Learning in [Diponegoro University](https://manajemen.feb.undip.ac.id/)
 
